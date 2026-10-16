@@ -1,0 +1,26 @@
+book_title: Proceedings of the 1st Workshop on Multi-modality and Multi-lingual Language Learning
+event_name: Workshop on Multi-modality and Multi-lingual Language Learning
+volume_name: 1
+cover_subtitle: Proceedings of the Workshop
+anthology_venue_id: Multi-LLL
+start_date: 2026-11-09
+end_date: 2026-11-09
+isbn: "979-8-89176-449-1"
+location: Hengqin, Zhuhai, China
+editors:
+  - first_name: Xiaoman
+    last_name: Wang
+  - first_name: Qianyu
+    last_name: Wang
+  - first_name: Zhengyuan
+    last_name: Liu
+  - first_name: Nancy
+    middle_name: F.
+    last_name: Chen
+  - first_name: Zheng
+    last_name: Yuan
+  - first_name: Yunshi
+    last_name: Lan
+  - first_name: Jing
+    last_name: Jiang
+publisher: Association for Computational Linguistics

@@ -1,0 +1,180 @@
+# Multi-LLL 2026 — 9 November 2026, MR8M.
+# All times are Beijing time / Asia/Shanghai (UTC+8).
+# Paper IDs WS-/ARR- are provisional and must match the publication metadata.
+# WS-5 and WS-6 are non-archival. WS-12 is a recorded presentation.
+# Keynotes: 35 minutes + 5 minutes Q&A. Regular papers: 14 minutes + 2 minutes Q&A; 1-minute gaps.
+# WS-4 — Ground Before Correcting: Evidence-Guided Visual Chinese Grammatical Error Correction at Multi-LLL 2026
+# WS-12 — A Training-Free Single-Pass Vision–Language Pipeline for Sentence-Level Visual Chinese Grammatical Error Correction
+# WS-1 — WrAFT: A Modularized Automated Writing Evaluation System for L2 Argumentative Essays
+# WS-5 — Development of an Intelligent Essay-Correction System for International Chinese Language Education
+# WS-6 — PEELing Argumentation: Scaffolding Elementary Argumentative Writing with Decomposed LLM Feedback
+# WS-9 — Rewrites Are Not Lessons: Teachable Edits as an Output Specification for Multimodal Language Learning
+# WS-10 — A Multi-Modal Interactive Narrative Game for French-Speaking Primary School Learners
+# WS-14 — Outlining an Experiment Design of Gamifying Language Learning in Low-Resource Contexts: Kurdish Learning in University, Language Courses, and on Web-Based Applications
+# WS-2 — Beyond Accuracy: What Language-Subspace Interventions Capture, Remove, and Improve
+# WS-7 — Cross-Lingual TTS for Indian Languages: A Benchmark and Inference-Time Duration Estimation Strategies
+# ARR-2 — Audio Representation Learning and Downstream Task Modeling: A Survey
+# ARR-1 — Clean Evaluations on Contaminated Visual Language Models
+---
+- title: Opening Remarks
+  start_time: '2026-11-09 09:00:00'
+  end_time: '2026-11-09 09:05:00'
+  subsessions:
+  - title: Opening Remarks
+    start_time: '2026-11-09 09:00:00'
+    end_time: '2026-11-09 09:05:00'
+    chair: Organizers
+    location: MR8M
+- title: Keynote 1
+  start_time: '2026-11-09 09:05:00'
+  end_time: '2026-11-09 09:45:00'
+  subsessions:
+  - title: 'Zitao Liu: Multimodal Language Technologies for Personalized Learning:
+      From Knowledge Tracing to a Daily AI Study Companion'
+    start_time: '2026-11-09 09:05:00'
+    end_time: '2026-11-09 09:45:00'
+    chair: Yunshi Lan
+    location: MR8M
+- title: Transition
+  start_time: '2026-11-09 09:45:00'
+  end_time: '2026-11-09 09:50:00'
+  subsessions:
+  - title: Transition
+    start_time: '2026-11-09 09:45:00'
+    end_time: '2026-11-09 09:50:00'
+    chair: Organizers
+    location: MR8M
+- title: Keynote 2
+  start_time: '2026-11-09 09:50:00'
+  end_time: '2026-11-09 10:30:00'
+  subsessions:
+  - title: 'Guanliang Chen: Beyond Automated Feedback: Advancing Educational Feedback
+      through Human–AI Collaboration'
+    start_time: '2026-11-09 09:50:00'
+    end_time: '2026-11-09 10:30:00'
+    chair: Yunshi Lan
+    location: MR8M
+- title: Coffee Break
+  start_time: '2026-11-09 10:30:00'
+  end_time: '2026-11-09 11:00:00'
+- title: Keynote 3
+  start_time: '2026-11-09 11:00:00'
+  end_time: '2026-11-09 11:40:00'
+  subsessions:
+  - title: 'Zhongqing Wang: Large Language Models for Figurative Language: From Text
+      to Multi-modality and Cross-lingual Inspirations'
+    start_time: '2026-11-09 11:00:00'
+    end_time: '2026-11-09 11:40:00'
+    chair: Yunshi Lan
+    location: MR8M
+- title: Transition
+  start_time: '2026-11-09 11:40:00'
+  end_time: '2026-11-09 11:45:00'
+  subsessions:
+  - title: Transition
+    start_time: '2026-11-09 11:40:00'
+    end_time: '2026-11-09 11:45:00'
+    chair: Organizers
+    location: MR8M
+- title: Shared Task
+  start_time: '2026-11-09 11:45:00'
+  end_time: '2026-11-09 12:30:00'
+  subsessions:
+  - title: Shared Task Overview
+    start_time: '2026-11-09 11:45:00'
+    end_time: '2026-11-09 11:50:00'
+    chair: Xiaoman Wang
+    location: MR8M
+  - title: Visual Chinese Grammatical Error Correction
+    start_time: '2026-11-09 11:50:00'
+    end_time: '2026-11-09 12:05:00'
+    chair: Xiaoman Wang
+    location: MR8M
+    papers:
+    - id: WS-4
+      start_time: '2026-11-09 11:50:00'
+      end_time: '2026-11-09 12:05:00'
+  - title: Visual Chinese Grammatical Error Correction
+    start_time: '2026-11-09 12:10:00'
+    end_time: '2026-11-09 12:25:00'
+    chair: Xiaoman Wang
+    location: MR8M
+    papers:
+    - id: WS-12
+      start_time: '2026-11-09 12:10:00'
+      end_time: '2026-11-09 12:25:00'
+  - title: Shared Task Discussion
+    start_time: '2026-11-09 12:25:00'
+    end_time: '2026-11-09 12:30:00'
+    chair: Xiaoman Wang
+    location: MR8M
+- title: Lunch Break
+  start_time: '2026-11-09 12:30:00'
+  end_time: '2026-11-09 14:00:00'
+- title: Paper Session 1
+  start_time: '2026-11-09 14:00:00'
+  end_time: '2026-11-09 15:30:00'
+  subsessions:
+  - title: Writing, Feedback and Interactive Learning
+    start_time: '2026-11-09 14:00:00'
+    end_time: '2026-11-09 15:25:00'
+    chair: Zhengyuan Liu
+    location: MR8M
+    papers:
+    - id: WS-1
+      start_time: '2026-11-09 14:00:00'
+      end_time: '2026-11-09 14:16:00'
+    - id: WS-5
+      start_time: '2026-11-09 14:17:00'
+      end_time: '2026-11-09 14:33:00'
+    - id: WS-6
+      start_time: '2026-11-09 14:34:00'
+      end_time: '2026-11-09 14:50:00'
+    - id: WS-9
+      start_time: '2026-11-09 14:51:00'
+      end_time: '2026-11-09 15:07:00'
+    - id: WS-10
+      start_time: '2026-11-09 15:08:00'
+      end_time: '2026-11-09 15:24:00'
+  - title: Session Discussion
+    start_time: '2026-11-09 15:25:00'
+    end_time: '2026-11-09 15:30:00'
+    chair: Zhengyuan Liu
+    location: MR8M
+- title: Coffee Break
+  start_time: '2026-11-09 15:30:00'
+  end_time: '2026-11-09 16:00:00'
+- title: Paper Session 2
+  start_time: '2026-11-09 16:00:00'
+  end_time: '2026-11-09 17:25:00'
+  subsessions:
+  - title: Multilingual, Multimodal and Speech Technologies
+    start_time: '2026-11-09 16:00:00'
+    end_time: '2026-11-09 17:25:00'
+    chair: Zhengyuan Liu
+    location: MR8M
+    papers:
+    - id: WS-14
+      start_time: '2026-11-09 16:00:00'
+      end_time: '2026-11-09 16:16:00'
+    - id: WS-2
+      start_time: '2026-11-09 16:17:00'
+      end_time: '2026-11-09 16:33:00'
+    - id: WS-7
+      start_time: '2026-11-09 16:34:00'
+      end_time: '2026-11-09 16:50:00'
+    - id: ARR-2
+      start_time: '2026-11-09 16:51:00'
+      end_time: '2026-11-09 17:07:00'
+    - id: ARR-1
+      start_time: '2026-11-09 17:08:00'
+      end_time: '2026-11-09 17:24:00'
+- title: Closing Remarks
+  start_time: '2026-11-09 17:25:00'
+  end_time: '2026-11-09 17:30:00'
+  subsessions:
+  - title: Closing Remarks
+    start_time: '2026-11-09 17:25:00'
+    end_time: '2026-11-09 17:30:00'
+    chair: Organizers
+    location: MR8M

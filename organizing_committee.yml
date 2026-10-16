@@ -1,0 +1,24 @@
+- members:
+  - first_name: Xiaoman
+    institution: East China Normal University
+    last_name: Wang
+  - first_name: Qianyu
+    institution: East China Normal University
+    last_name: Wang
+  - first_name: Zhengyuan
+    institution: A*STAR, Singapore
+    last_name: Liu
+  - first_name: Nancy
+    institution: A*STAR, Singapore
+    last_name: Chen
+    middle_name: F.
+  - first_name: Zheng
+    institution: University of Sheffield
+    last_name: Yuan
+  - first_name: Yunshi
+    institution: East China Normal University
+    last_name: Lan
+  - first_name: Jing
+    institution: Australian National University
+    last_name: Jiang
+  role: Workshop Organizers

@@ -1,0 +1,105 @@
+- entries:
+  - first_name: Ahmed
+    institution: Hassana Labs
+    last_name: Karim
+  - first_name: Andrew
+    institution: University of Cambridge
+    last_name: Caines
+  - first_name: Bashar
+    institution: MBZUAI
+    last_name: Alhafni
+  - first_name: Chris
+    institution: Writer Inc.
+    last_name: Bryant
+    middle_name: J.
+  - first_name: Chunyang
+    institution: East China Normal University
+    last_name: Wang
+  - first_name: David
+    institution: University of Cambridge
+    last_name: Strohmaier
+  - first_name: Diana
+    institution: University of Cambridge
+    last_name: Galvan-Sosa
+  - first_name: Gabrielle
+    institution: University of Cambridge
+    last_name: Gaudeau
+  - first_name: Jiazheng
+    institution: King's College London
+    last_name: Li
+  - first_name: Jing
+    institution: Cambridge University Press & Assessment
+    last_name: Xu
+  - first_name: Judy
+    institution: Hosei University
+    last_name: Wang
+  - first_name: Lei
+    institution: Newcastle University
+    last_name: Shi
+  - first_name: Luca
+    institution: Institut polytechnique de Paris & Telecom SudParis
+    last_name: Benedetto
+  - first_name: Mariano
+    institution: British Council
+    last_name: Felice
+  - first_name: Michael
+    institution: Tokyo University of Science
+    last_name: Hofmeyr
+  - first_name: Michael
+    institution: Aix-Marseille University
+    last_name: Zock
+  - first_name: Michail
+    institution: University of Cambridge
+    last_name: Korakakis
+  - first_name: Mingrui
+    institution: King's College London
+    last_name: Ye
+  - first_name: Nevena
+    institution: University of Belgrade
+    last_name: Cekovic
+  - first_name: Nguyen
+    institution: Nanyang Technological University
+    last_name: Li
+  - first_name: Ranka
+    institution: University of Belgrade
+    last_name: Stanković
+  - first_name: Robert
+    institution: Kindai University
+    last_name: Swier
+  - first_name: Roman
+    institution: University of Helsinki
+    last_name: Yangarber
+  - first_name: Siya
+    institution: King's College London
+    last_name: Qi
+  - first_name: Stella Xin
+    institution: Nanyang Technological University
+    last_name: Yin
+  - first_name: Suchir
+    institution: University of Cambridge
+    last_name: Salhan
+  - first_name: Thierry
+    institution: University of Luxembourg
+    last_name: Geoffre
+  - first_name: Xuesong
+    institution: East China Normal University
+    last_name: Lu
+  - first_name: Yan
+    institution: East China Normal University
+    last_name: Wang
+  - first_name: Yuan
+    institution: University of Cambridge
+    last_name: Gao
+  role: Program Committee
+# Tentative keynote speakers; final participation remains to be confirmed.
+- entries:
+  - first_name: Zitao
+    institution: Jinan University
+    last_name: Liu
+  - first_name: Guanliang
+    institution: Beijing Normal University
+    last_name: Chen
+  - first_name: Zhongqing
+    institution: Soochow University
+    last_name: Wang
+  role: Invited Speakers
